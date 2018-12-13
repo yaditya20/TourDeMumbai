@@ -1,0 +1,264 @@
+<resources>
+    <string name="app_name">Tour De Mumbai</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Category name for Top Spots -->
+    <string name="category_top_spots">Top Spots</string>
+
+    <!-- Category name for Local Favorites -->
+    <string name="category_local_favorites">Local Favorites</string>
+
+    <!-- Category name for Hotels -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Category name for Kid Friendly -->
+    <string name="category_kid_friendly">Kid Friendly</string>
+
+    <!-- Category name for Museums -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for Religious Sites -->
+    <string name="category_religious_sites">Religious Sites</string>
+
+    <!-- Taj Mahal Palace Details -->
+    <string name="taj_mahal_name">The Taj Mahal Palace</string>
+    <string name="taj_mahal_time">Open 24 hours</string>
+    <string name="taj_mahal_phoneNo">+91 22 6665 3366</string>
+    <string name="taj_mahal_address">Apollo Bandar, Colaba, Mumbai, Maharashtra 400001, India</string>
+    <string name="taj_mahal_sd">Refined rooms in a high-end seafront hotel with 11 resaurants &amp; bars, plus a luxe spa &amp; pool</string>
+
+    <!-- TRIDENT HOTEL Details -->
+    <string name="trident_hotel_bkc_name">TRIDENT HOTEL</string>
+    <string name="trident_hotel_bkc_time">Open 24 hours</string>
+    <string name="trident_hotel_bkc_phoneNo">+91 22 6672 7777</string>
+    <string name="trident_hotel_bkc_address">C 56, G Block, Bandra Kurla Complex, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India</string>
+    <string name="trident_hotel_bkc_sd">Sophisticated hotel with 3 refined restaurants &amp; a patisserie, plus an infinity pool &amp; a sundeck.</string>
+
+    <!-- JW Marriott Mumbai Sahar Airport Details -->
+    <string name="jw_marriott_mumbai_sahar_airport_name">JW Marriott Mumbai Sahar Airport</string>
+    <string name="jw_marriott_mumbai_sahar_airport_time">Open 24 hours</string>
+    <string name="jw_marriott_mumbai_sahar_airport_phoneNo">+91 22 2853 8888</string>
+    <string name="jw_marriott_mumbai_sahar_airport_address">Chhatrapati Shivaji International Airpot, IA Project Rd, Navpada, Vile Parle East, Vile Parle, Andheri, Mumbai, Maharashtra 400099, India</string>
+    <string name="jw_marriott_mumbai_sahar_airport_sd">Upscale airport lodging offering international dining &amp; a bar, plus an outdoor pool, a gym &amp; a spa.</string>
+
+    <!-- Courtyard by Marriott Mumbai International Airport Details -->
+    <string name="courtyard_by_marriott_mumbai_international_airport_name">Courtyard by Marriott Mumbai International Airport</string>
+    <string name="courtyard_by_marriott_mumbai_international_airport_time">Open 24 hours</string>
+    <string name="courtyard_by_marriott_mumbai_international_airport_phoneNo">+91 22 6136 9999</string>
+    <string name="courtyard_by_marriott_mumbai_international_airport_address">Cts 215, Carnival Cinemas Andheri Kurla Road, Andheri East, Mumbai, Maharashtra 400059, India</string>
+    <string name="courtyard_by_marriott_mumbai_international_airport_sd">Polished rooms &amp; suites in a high-end lodging offering chic Thai dining, an outdoor pool &amp; a spa.</string>
+
+    <!-- ITC Maratha Mumbai Details -->
+    <string name="itc_maratha_mumbai_name">ITC Maratha Mumbai</string>
+    <string name="itc_maratha_mumbai_time">Open 24 hours</string>
+    <string name="itc_maratha_mumbai_phoneNo">+91 22 2830 3030</string>
+    <string name="itc_maratha_mumbai_address">Sahar Rd, Opposite Chhatrapati Shivaji Airpot, Ashok Nagar, Andheri East, Mumbai, Maharashtra 400099, India</string>
+    <string name="itc_maratha_mumbai_sd">Opulent hotel offering posh quaters, plus upscale dining, an outdoor pool &amp; a spa.</string>
+
+    <!-- Hyatt Regency Mumbai Details -->
+    <string name="hyatt_regency_name">Hyatt Regency Mumbai</string>
+    <string name="hyatt_regency_time">Open 24 hours</string>
+    <string name="hyatt_regency_phoneNo">+91 22 6136 9999</string>
+    <string name="hyatt_regency_address">The Hyatt Regency, Ashok Nagar, Andheri East, Mumbai, Maharashtra 400059, India</string>
+    <string name="hyatt_regency_sd">Posh quaters in a refined airport lodging with 2 restaurants, plus a bar, an outdoor pool &amp; a spa.</string>
+
+    <!-- The Westin Mumbai Garden City Details -->
+    <string name="the_westin_mumbai_garden_city_name">The Westin Mumbai Garden City</string>
+    <string name="the_westin_mumbai_garden_city_time">Open 24 hours</string>
+    <string name="the_westin_mumbai_garden_city_phoneNo">+91 22 6147 0000</string>
+    <string name="the_westin_mumbai_garden_city_address">Goregaon East International Business Park, Oberoi Garden City, Yashodham, Goregaon East, Mumbai, Maharashtra 400063, India</string>
+    <string name="the_westin_mumbai_garden_city_sd">Choice high-rise property offering dining &amp; a poolside bar, as well as a spa &amp; a fitness room.</string>
+
+    <!-- Renaissance Mumbai Convention Centre Hotel Details -->
+    <string name="renaissance_mumbai_convention_centre_hotel_name">Renaissance Mumbai Convention Centre Hotel</string>
+    <string name="renaissance_mumbai_convention_centre_hotel_time">Open 24 hours</string>
+    <string name="renaissance_mumbai_convention_centre_hotel_phoneNo">+91 22 0000 0000</string>
+    <string name="renaissance_mumbai_convention_centre_hotel_address">Renaissance Mumbai Hotel &amp; Convention Centre, Kailash Nagar, Morarji Nagar, Powai, Mumbai, Maharashtra 400076, India</string>
+    <string name="renaissance_mumbai_convention_centre_hotel_sd">Posh rooms &amp; suites in a luxe hotel with 5 dining options &amp; a bar, plus a pool, a spa &amp; event space.</string>
+
+    <!-- The Lalit Mumbai-Airport Details -->
+    <string name="the_lalit_mumbai_airport_name">The Lalit Mumbai-Airport</string>
+    <string name="the_lalit_mumbai_airport_time">Open 24 hours</string>
+    <string name="the_lalit_mumbai_airport_phoneNo">+91 22 6699 2222</string>
+    <string name="the_lalit_mumbai_airport_address">Sahar Airport Rd, Navpada, Marol, Andheri East, Mumbai, Maharasthra 400059, India.</string>
+    <string name="the_lalit_mumbai_airport_sd">Upscale property with elegant quaters, warm dining &amp; a pool, plus a spa, a gym &amp; a screening room.</string>
+
+    <!-- Taj Lands End Details -->
+    <string name="taj_lands_end_name">Taj Lands End</string>
+    <string name="taj_lands_end_time">Open 24 hours</string>
+    <string name="taj_lands_end_phoneNo">+91 22 6668 1234</string>
+    <string name="taj_lands_end_address">Bandstand Fort, BJ Road, Mount Mary, Bandra West, Mumbai, Maharasthra 400050, India</string>
+    <string name="taj_lands_end_sd">High-end hotel with sea views &amp; multiple restaurants, plus a spa, an outdoor pool &amp; a hot tub.</string>
+
+    <!-- Essel World Details -->
+    <string name="essel_world_name">Essel World</string>
+    <string name="essel_world_time">Opens at 11:00 AM</string>
+    <string name="essel_world_phoneNo">+91 22 6158 9888</string>
+    <string name="essel_world_address">Global Pagoda Road, Essel world Amusement Park, Borivali West, Mumbai, Maharashtra 400091</string>
+    <string name="essel_world_sd">Thrill rides &amp; kid\'s attractions</string>
+
+    <!-- Juhu Beach Details -->
+    <string name="juhu_beach_name">Juhu Beach</string>
+    <string name="juhu_beach_time">Open 24 hours</string>
+    <string name="juhu_beach_phoneNo">NA</string>
+    <string name="juhu_beach_address">Juhu Beach, Mumbai, Maharashtra 400047</string>
+    <string name="juhu_beach_sd">Juhu Beach is located on the shores of the Arabian Sea.</string>
+
+    <!-- Global Vipassana Pagoda Details -->
+    <string name="pagoda_name">Global Vipassana Pagoda</string>
+    <string name="pagoda_time">Opens 9AM</string>
+    <string name="pagoda_phoneNo">+91 22 62427500</string>
+    <string name="pagoda_address">Global Pagoda Road, Near Esselworld, Gorai, Borivali West, Mumbai, Maharashtra 400091</string>
+    <string name="pagoda_sd">Massive mediation hall honoring Buddha</string>
+
+    <!-- Hanging Garden Details -->
+    <string name="hanging_garden_name">Hanging Garden</string>
+    <string name="hanging_garden_time">Opens 5AM</string>
+    <string name="hanging_garden_phoneNo">NA</string>
+    <string name="hanging_garden_address">Ridge Rd, Simla Nagar, Malabar Hill, Mumbai, Maharashtra 400006</string>
+    <string name="hanging_garden_sd">The garden provide sunset views over the Arabian Sea and feature numerous hedges carved into the shapes of animals</string>
+
+    <!-- Taraporewala Aquarium Details -->
+    <string name="taraporevala_aquarium_name">Taraporewala Aquarium</string>
+    <string name="taraporevala_aquarium_time">Opens 10AM</string>
+    <string name="taraporevala_aquarium_phoneNo">+91 22 22044040</string>
+    <string name="taraporevala_aquarium_address">Netaji Subhash Chandra Bose Road, Marine Drive, Near Charni Road Railway Station, Mumbai, Maharashtra 400002</string>
+    <string name="taraporevala_aquarium_sd">Renovated aquarium with over 2000 fish.</string>
+
+    <!-- Water Kingdom Details -->
+    <string name="water_kingdom_name">Water Kingdom</string>
+    <string name="water_kingdom_time">Opens 11AM</string>
+    <string name="water_kingdom_phoneNo">+91 22 2845 2222</string>
+    <string name="water_kingdom_address">Global Pagoda Road, Essel world Amusement Park, Borivali West, Mumbai, Maharashtra 400091</string>
+    <string name="water_kingdom_sd">Family-friendly water park featuring high-speed slides, wave pools, lazy river &amp; kiddie attractions.</string>
+
+    <!-- Veermata Jijabai Udyan Details -->
+    <string name="veermata_jijabai_udyan_name">Veermata Jijabai Udyan</string>
+    <string name="veermata_jijabai_udyan_time">Opens 9AM</string>
+    <string name="veermata_jijabai_udyan_phoneNo">+91 22 2377 2414</string>
+    <string name="veermata_jijabai_udyan_address">91A, Lalbaug Flyover, Near Railway Station, Byculla East, Mazgaon, Mumbai, Maharashtra 400027</string>
+    <string name="veermata_jijabai_udyan_sd">Zoo with botanical garden &amp; playground</string>
+
+    <!-- Evershine Dream Park Details -->
+    <string name="evershine_dream_park_name">Evershine Dream Park</string>
+    <string name="evershine_dream_park_time">Opens 6AM</string>
+    <string name="evershine_dream_park_phoneNo">+91 22 3381 4064</string>
+    <string name="evershine_dream_park_address">Thakur Village Road, West, Evershine Phase 3, Evershine Millennium Paradise, Thakur Village, Kandivali, Mumbai, Maharashtra 400101</string>
+    <string name="evershine_dream_park_sd">Large popular park featuring open grassy areas &amp; gardens, plus playgrounds &amp; rides for kids.</string>
+
+    <!-- Shivaji Park Details -->
+    <string name="shivaji_park_name">Shivaji Park</string>
+    <string name="shivaji_park_time">Open 24 hours</string>
+    <string name="shivaji_park_phoneNo">NA</string>
+    <string name="shivaji_park_address">Opposite Mayor\'s bungalow, Dadar West, Dadar, Mumbai, Maharashtra 400028</string>
+    <string name="shivaji_park_sd">City green space and home to cricket clubs.</string>
+
+    <!-- Sanjay Gandhi National Park Details -->
+    <string name="sgnp_name">Sanjay Gandhi National Park</string>
+    <string name="sgnp_time">Opens 7:30AM</string>
+    <string name="sgnp_phoneNo">+91 22 2886 0362</string>
+    <string name="sgnp_address">Sanjay Gandhi National Park, Borivali East, Mumbai, Maharashtra 400066</string>
+    <string name="sgnp_sd">Vast park with caves &amp; a big cat safari.</string>
+
+    <!-- Mahalaxmi Race Course Details -->
+    <string name="mahalaxmi_racecourse_mahalaxmi_mumbai_name">Mahalaxmi Race Course</string>
+    <string name="mahalaxmi_racecourse_mahalaxmi_mumbai_time">-</string>
+    <string name="mahalaxmi_racecourse_mahalaxmi_mumbai_phoneNo">+91 22 2307 1401</string>
+    <string name="mahalaxmi_racecourse_mahalaxmi_mumbai_address">Dr E Moses Marg, Royal Western India Turf Club, Mahalakshmi Nagar, Mumbai, Maharashtra 400034</string>
+    <string name="mahalaxmi_racecourse_mahalaxmi_mumbai_sd">A horse racing track which is oval shaped with 2,400 metres straight chute.</string>
+
+    <!-- Banganga Tnk Details -->
+    <string name="banganga_water_tank_name">Banganga Tank</string>
+    <string name="banganga_water_tank_time">Open 24 hours</string>
+    <string name="banganga_water_tank_phoneNo">NA</string>
+    <string name="banganga_water_tank_address">Banganga Tank, Teen Batti, Malabar Hill, Mumbai, Maharashtra 400006</string>
+    <string name="banganga_water_tank_sd">Banganga Tank is an ancient water tank which is part of the Walkeshwar Temple Complex in Malabar Hill area of Mumbai.</string>
+
+    <!-- Siddhi Vinayak Mandir Details -->
+    <string name="siddhivinayak_temple_name">Siddhi Vinayak Mandir</string>
+    <string name="siddhivinayak_temple_time">Opens 5:30AM</string>
+    <string name="siddhivinayak_temple_phoneNo">+91 22 2422 4438</string>
+    <string name="siddhivinayak_temple_address">SK Bole Marg, Prabhadevi, Mumbai, Maharashtra 400028</string>
+    <string name="siddhivinayak_temple_sd">Grand Hindu Temple dedicated to Ganesha</string>
+
+    <!-- Chhatrapati Shivaji Maharaj Terminus Details -->
+    <string name="cst_railway_station_name">Chhatrapati Shivaji Maharaj Terminus</string>
+    <string name="cst_railway_station_time">Open 24 hours</string>
+    <string name="cst_railway_station_phoneNo">NA</string>
+    <string name="cst_railway_station_address">Chhatrapati Shivaji Terminus Area, Fort, Mumbai, Maharashtra 400001</string>
+    <string name="cst_railway_station_sd">Ornate Victorian railway for local lines</string>
+
+    <!-- Haji Ali Dargah Details -->
+    <string name="haji_ali_name">Haji Ali Dargah</string>
+    <string name="haji_ali_time">Opens 5:30AM</string>
+    <string name="haji_ali_phoneNo">+91 22 23529082</string>
+    <string name="haji_ali_address">Dargah Rd, Haji Ali, Mumbai, Maharashtra</string>
+    <string name="haji_ali_sd">Island mausoleum &amp; pilgrimage site</string>
+
+    <!-- Jehangir Art Gallery Details -->
+    <string name="jehangir_art_gallery_name">Jehangir Art Gallery</string>
+    <string name="jehangir_art_gallery_time">Opens 11AM</string>
+    <string name="jehangir_art_gallery_phoneNo">+91 22 22843989</string>
+    <string name="jehangir_art_gallery_address">161B, Mahatma Gandhi Road, Kala Ghoda, Fort, Mumbai, Maharashtra 400001</string>
+    <string name="jehangir_art_gallery_sd">An art gallery and a centre of cultural and educational activities.</string>
+
+    <!-- National Gallery Of Modern Art Mumbai Details -->
+    <string name="national_gallery_of_modern_art_mumbai_name">National Gallery Of Modern Art Mumbai</string>
+    <string name="national_gallery_of_modern_art_mumbai_time">Opens 11AM</string>
+    <string name="national_gallery_of_modern_art_mumbai_phoneNo">91 22 2288 1969</string>
+    <string name="national_gallery_of_modern_art_mumbai_address">Sir Cowasji Jahangir Public Hall, Mahatma Gandhi Road, Fort, Mumbai, Maharashtra 400032</string>
+    <string name="national_gallery_of_modern_art_mumbai_sd">Major museum with a global collection.</string>
+
+    <!-- Chemould Prescott Road Details -->
+    <string name="chemould_prescott_road_name">Chemould Prescott Road</string>
+    <string name="chemould_prescott_road_time">Opens 11AM</string>
+    <string name="chemould_prescott_road_phoneNo">+91 22 2200 0211</string>
+    <string name="chemould_prescott_road_address">3rd floor, Queens Mansion, G. Talwatkar Marg, Fort, Mumbai, Maharashtra 400001</string>
+    <string name="chemould_prescott_road_sd">Established venue with imaginative works.</string>
+
+    <!-- Project 88 Details -->
+    <string name="project88_name">Project 88</string>
+    <string name="project88_time">Opens 11AM</string>
+    <string name="project88_phoneNo">+91 22 2281 0066</string>
+    <string name="project88_address">Ground Floor, B.M.P. Building, Narayan A Sawant Rd, Azad Nagar, Colaba, Mumbai, Maharashtra 400005</string>
+    <string name="project88_sd">Sizable gallery with experimental art.</string>
+
+    <!-- Volte Gallery Details -->
+    <string name="volte_gallery_mumbai_name">Volte Gallery</string>
+    <string name="volte_gallery_mumbai_time">Opens 11AM</string>
+    <string name="volte_gallery_mumbai_phoneNo">+91 22 4096 3300</string>
+    <string name="volte_gallery_mumbai_address">202 Sumer Kendra, Floor 2, Pandurang Buhadkar Marg, Worli, Mumbai, Maharashtra 400018</string>
+    <string name="volte_gallery_mumbai_sd">Well-known gallery showcasing contemporary works by established &amp; emerging Indian artist.</string>
+
+    <!-- International Society for Krishna Consciousness (ISKCON - Juhu) Details -->
+    <string name="iskcon_name">International Society for Krishna Consciousness (ISKCON - Juhu)</string>
+    <string name="iskcon_time">Opens 4:30AM</string>
+    <string name="iskcon_phoneNo">+91 22 2620 6860</string>
+    <string name="iskcon_address">ISKCON, Hare Krishna Land, Sri Mukteshwar Devalaya Road, Marg, Sainath Nagar, MHADA Colony, Juhu, Mumbai, Maharashtra 400049</string>
+    <string name="iskcon_sd">Hare Krishna temple with a restaurant.</string>
+
+    <!-- Basilica of Our Lady of the Mount, Bandra Details -->
+    <string name="basilica_of_our_lady_of_the_mount_church_name">Basilica of Our Lady of the Mount, Bandra</string>
+    <string name="basilica_of_our_lady_of_the_mount_church_time">Opens 8AM</string>
+    <string name="basilica_of_our_lady_of_the_mount_church_phoneNo">+91 22 2642 3152</string>
+    <string name="basilica_of_our_lady_of_the_mount_church_address">Mount Mary, Bandra West, Mumbai, Maharashtra 400005</string>
+    <string name="basilica_of_our_lady_of_the_mount_church_sd">Historical Catholic Church with a feast.</string>
+
+    <!-- Mahalaxmi Temple Mumbai Details -->
+    <string name="mahalaxmi_temple_name">Mahalaxmi Temple Mumbai</string>
+    <string name="mahalaxmi_temple_time">Opens 6AM</string>
+    <string name="mahalaxmi_temple_phoneNo">+91 22 2351 4732</string>
+    <string name="mahalaxmi_temple_address">Mahalaxmi West, Breach Candy, Cumballa Hill, Mumbai, Maharashtra 400026</string>
+    <string name="mahalaxmi_temple_sd">Seaside temple for a Hindu goddess.</string>
+<!--
+
+    &lt;!&ndash; Details &ndash;&gt;
+    <string name="_name"></string>
+    <string name="_time"></string>
+    <string name="_phoneNo"></string>
+    <string name="_address"></string>
+    <string name="_sd"></string>
+-->
+</resources>

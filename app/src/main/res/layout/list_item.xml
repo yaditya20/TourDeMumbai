@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="450dp"
+    android:background="@color/cardview_light_background"
+    android:minHeight="450dp"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/thumbnail"
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:clickable="true"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/thumbnail"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingRight="10dp"
+        android:textColor="#4c4c4c"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/shortDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/name"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="5dp"
+        android:textSize="12sp" />
+
+    <View
+        android:id="@+id/line_divider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/shortDescription"
+        android:background="@android:color/darker_gray"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"></View>
+
+    <ImageView
+        android:id="@+id/address_icon"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/line_divider"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:src="@android:drawable/ic_menu_directions" />
+
+    <TextView
+        android:id="@+id/address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/line_divider"
+        android:layout_toEndOf="@id/address_icon"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:textSize="12sp" />
+
+    <ImageView
+        android:id="@+id/phone_icon"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/address_icon"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:src="@android:drawable/ic_menu_call" />
+
+    <TextView
+        android:id="@+id/phoneNo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/address_icon"
+        android:layout_toEndOf="@id/phone_icon"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:textSize="12sp" />
+
+    <!--<ImageView
+        android:id="@+id/website_icon"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/phone_icon"
+        android:src="@android:drawable/ic_dialog_info" />
+
+    <TextView
+        android:id="@+id/website"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/phone_icon"
+        android:layout_toEndOf="@id/website_icon"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="5dp"
+        android:textSize="12sp" />
+-->
+    <ImageView
+        android:id="@+id/time_icon"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/phone_icon"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:src="@android:drawable/ic_lock_idle_alarm" />
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/phone_icon"
+        android:layout_toEndOf="@id/time_icon"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:textSize="12sp" />
+
+</RelativeLayout>
